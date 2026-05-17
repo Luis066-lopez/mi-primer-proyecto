@@ -1,1 +1,2 @@
 Hola, este es mi primer proyecto con Git.
+"Soy experto en programacion".
